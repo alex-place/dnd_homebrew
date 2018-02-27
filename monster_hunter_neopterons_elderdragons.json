@@ -1,29 +1,33 @@
 {
-	"source": "MH-Bugs_ElderDragons",
-	"name": "Altaroth",
-	"size": "S",
-	"type": "monstrosity(neopteron)",
-	"alignment": "unaligned",
-	"str": null,
-	"dex": null,
-	"con": null,
-	"int": null,
-	"wis": null,
-	"cha": null,
-	"senses": "",
-	"passive": 8,
-	"languages": "-",
-	"cr": "0",
-	"trait": [],
-	"action": [
-		{
-			"name": "Corrosive Spit",
-			"text": [
-				"Range Weapon Attack. +2 to hit, range 20/40 ft., one target. Hit 2 (1d4) acid damage. If the creature is in either metal armor or has a metal shield being worn or carried, its takes a temporary -1 penalty to the AC it offers for 24 hours."
-			]
-		}
-	],
-	"reaction": [],
-	"legendary": [],
-	"page": 0
+	"monster": [
+			{
+				"source": "MH-Bugs_ElderDragons",
+				"name": "Altaroth",
+				"size": "S",
+				"type": "monstrosity(neopteron)",
+				"alignment": "unaligned",
+				"str": null,
+				"dex": null,
+				"con": null,
+				"int": null,
+				"wis": null,
+				"cha": null,
+				"senses": "",
+				"passive": 8,
+				"languages": "-",
+				"cr": "0",
+				"trait": [],
+				"action": [
+					{
+						"name": "Corrosive Spit",
+						"text": [
+							"Range Weapon Attack. +2 to hit, range 20/40 ft., one target. Hit 2 (1d4) acid damage. If the creature is in either metal armor or has a metal shield being worn or carried, its takes a temporary -1 penalty to the AC it offers for 24 hours."
+						]
+					}
+				],
+				"reaction": [],
+				"legendary": [],
+				"page": 0
+			}
+		]
 }
