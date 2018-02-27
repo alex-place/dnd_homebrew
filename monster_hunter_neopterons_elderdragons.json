@@ -1,0 +1,2891 @@
+{
+	"source": "MH_HB",
+	"name": "Lao-Shan Lung",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +9, Int +8, Wis +9 Cha +9",
+	"immune": "fire; bludgeoning, piercing, and slashing from non magical weapons",
+	"resist": "acid, cold, lightning, poison, thunder; bludgeoning, piercing, and slashing from magical weapons",
+	"conditionImmune": "charmed, frightened, paralyzed, poisoned",
+	"senses": "blindsight 120 ft.",
+	"passive": 10,
+	"languages": "Draconic",
+	"cr": "30",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the lao-shan lung fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Magic Resistance",
+			"text": [
+				"The lao-shan lung has advantage on saving throws against spells and other magical effects.",
+				""
+			]
+		},
+		{
+			"name": "Siege Monster",
+			"text": [
+				"The lao-shan lung deals double damage to objects and structures.",
+				""
+			]
+		},
+		{
+			"name": "Siege Vulnerability",
+			"text": [
+				"Siege weapons ignore lao-shan lungs immunities and resistances.",
+				""
+			]
+		},
+		{
+			"name": "Casual Stroll",
+			"text": [
+				"the lao-shan lung cannot take the dash action, unless it is fleeing.",
+				""
+			]
+		},
+		{
+			"name": "Walking Disaster",
+			"text": [
+				"The lao-shan lung can enter a Large or smaller creature's space. The first time it enters a creature's space on a turn, or begins its turn adjacent to or on a creatures space turn it can make a Stomp attack against the creature.",
+				""
+			]
+		},
+		{
+			"name": "Natural Instinct",
+			"text": [
+				"lao-shan Lung ignores medium size or smaller creatures and attempts to flee when it reaches 1/4 of its maximum hit points. While fleeing, the lao-shan Lung can only use its action to dash.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Stomp",
+			"text": [
+				"Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit 23 (2d12+10) bludgeoning damage. If the target is a creature, it must make a DC 23 Strength saving throw or be pushed back 10 ft and knocked prone.",
+				""
+			]
+		},
+		{
+			"name": "Body Slam",
+			"text": [
+				"Melee Weapon Attack. +19 to hit, reach 5ft., one target. Hit 36 (4d12+10) bludgeoning damage.",
+				""
+			]
+		},
+		{
+			"name": "Headbutt",
+			"text": [
+				"Melee Weapon Attack. +19 to hit, reach 5ft., one target. Hit 32 (4d10+10) bludgeoning damage.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The lao-shan lung can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The lao-shan lung regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Move",
+			"text": [
+				"The lao-shan lung moves up to half its speed.",
+				""
+			]
+		},
+		{
+			"name": "Stomp Attack",
+			"text": [
+				"The lao-shan lung makes one Stomp attack.",
+				""
+			]
+		},
+		{
+			"name": "Shake Off (Costs 2 Actions)",
+			"text": [
+				"The lao-shan lung thrashes around in an attempt to throw any object or creature that is on its body. Each creature on the lao-shan lung must make a DC 25 Strength or Dexterity saving throw (creature's choice), or be thrown off the lao-shan lung taking 14 (4d6) fall damage upon hitting the ground."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Jhen Mohran",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +9, Int +8, Wis +9 Cha +9",
+	"immune": "fire; bludgeoning, piercing, and slashing from non magical weapons",
+	"resist": "acid, lightning, poison, thunder; bludgeoning, piercing, and slashing from magical weapons",
+	"conditionImmune": "charmed, frightened, paralyzed",
+	"senses": "blindsight 120 ft.",
+	"passive": 10,
+	"languages": "Draconic",
+	"cr": "26",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the jhen mohran fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Magic Resistance",
+			"text": [
+				"The jhen mohran has advantage on saving throws against spells and other magical effects.",
+				""
+			]
+		},
+		{
+			"name": "Siege Monster",
+			"text": [
+				"The jhen mohran deals double damage to objects and structures.",
+				""
+			]
+		},
+		{
+			"name": "Siege Vulnerability",
+			"text": [
+				"Siege weapons ignore jhen mohran immunities and resistances.",
+				""
+			]
+		},
+		{
+			"name": "Sand Surfing",
+			"text": [
+				"The jhen mohran can swim through desert terrain as if it was water.",
+				"",
+				"",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Body Slam",
+			"text": [
+				"Melee Weapon Attack. +19 to hit, reach 5ft., one target. Hit 36 (4d12+10) bludgeoning damage.",
+				""
+			]
+		},
+		{
+			"name": "Tusks",
+			"text": [
+				"Melee Weapon Attack. +19 to hit, reach 30ft., one target. Hit 32 (4d10+10) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Rock Toss",
+			"text": [
+				"Range Weapon Attack. +9 to hit, reach 80/320 ft., one target. Hit 25 (4d6+10) bludgeoning damage.",
+				""
+			]
+		},
+		{
+			"name": "Horn Sweep (recharge 5-6)",
+			"text": [
+				"The jhen mohran sweeps its tusks across an area that is 30-feet long and 40-foot wide in front of it. Each creature in that area must make a DC 23 Dexterity saving throw, taking 32 (4d10+10) bludgeoning damage and are knocked prone on a failed save or half as much on a successful one and are not knocked prone.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The jhen mohran can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The jhen mohran regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Summon Delex",
+			"text": [
+				"Two delex emerge from underground to assist the jhen mohran.",
+				""
+			]
+		},
+		{
+			"name": "Rock Toss",
+			"text": [
+				"The jhen mohran makes a Rock Toss attack.",
+				""
+			]
+		},
+		{
+			"name": "Shake Off (Costs 2 Actions)",
+			"text": [
+				"The jhen mohran thrashes around in an attempt to throw any object or creature that is on its body. Each creature on the jhen mohran must make a DC 25 Strength or Dexterity saving throw (creature's choice), or be thrown up to 40 feet off the jhen mohran. If a thrown target strikes a solid surface upon landing, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Ceadeus",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +9, Int +8, Wis +9, Cha +9",
+	"immune": "fire; bludgeoning, piercing, and slashing from non magical weapons",
+	"resist": "acid, cold, poison, thunder; bludgeoning, piercing, and slashing from magical weapons",
+	"conditionImmune": "charmed, frightened, paralyzed, poisoned, prone",
+	"senses": "blindsight 120 ft.",
+	"passive": 10,
+	"languages": "Draconic",
+	"cr": "26",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the ceadeus fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Magic Resistance",
+			"text": [
+				"The ceadeus has advantage on saving throws against spells and other magical effects.",
+				""
+			]
+		},
+		{
+			"name": "Siege Monster",
+			"text": [
+				"The ceadeus deals double damage to objects and structures.",
+				"",
+				"",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The amatsu makes one tail attack and one bite attack.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack. +19 to hit, reach 10 ft., one target. Hit 24 (4d6+10) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +19 to hit, reach 20ft., one target. Hit 28 (4d8+10) bludgeoning damage.",
+				""
+			]
+		},
+		{
+			"name": "Hydropump (recharge 5-6)",
+			"text": [
+				"The ceadeus releases a high pressure stream of water in an 120-foot line that is 10 feet wide. Each creature in that line must make a DC 17 Dexterity saving throw, taking 50 (9d10) cold damage on a failed save, or half as much damage and not on a successful one.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The ceadeus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The ceadeus regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Detect",
+			"text": [
+				"The ceadeus makes a Wisdom (Perception) check.",
+				""
+			]
+		},
+		{
+			"name": "Tail Attack",
+			"text": [
+				"The ceadeus makes one Tail attack.",
+				""
+			]
+		},
+		{
+			"name": "Torpedo (Costs 2 Actions)",
+			"text": [
+				"The ceadeus swims up to its swim speed, during this move it may swim through other creatures without provoking attacks of opportunity. Any creatures the ceadeus moves through must succeed on a DC 17 Dexterity saving throw or take 24 (4d6+10) bludgeoning damage and be knocked prone."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Xeno'Jiiva",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Int +4, Wis +13, Cha +10",
+	"skill": {
+		"perception": "+13"
+	},
+	"resist": "fire, cold, lightning; bludgeoning, piercing, and slashing damage from non magical weapons",
+	"conditionImmune": "charmed, frightened, unconscious, poisoned",
+	"senses": "truesight 120 ft.",
+	"passive": 23,
+	"languages": "-",
+	"cr": "25",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the xeno'jiiva fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Magic Resistance",
+			"text": [
+				"The xeno'jiiva has advantage on saving throws against spells and other magical effects.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The xeno'jiiva can use its frightful presence. It then makes five attacks: three with its bite, and two with its claws. Or it makes three blue flame attacks.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit 27 (4d8+9) piercing damage. If the target is a creature, it is grappled (escape DC 19) . Until this grapple ends, the target is restrained, and the xeno'jiiva can't bite another target.",
+				""
+			]
+		},
+		{
+			"name": "Claw",
+			"text": [
+				"Melee Weapon Attack. +17 to hit, reach 5 ft., one target. Hit 23 (4d6+9) slashing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +17 to hit, reach 15ft., one target. Hit 31 (4d10+9) bludgeoning damage.",
+				""
+			]
+		},
+		{
+			"name": "Blue Firebolt",
+			"text": [
+				"Ranged Weapon Attack. +8 to hit, range 80/320 ft., one target. Hit 36 (8d8) fire damage.",
+				"",
+				"Fire breath (recharge 5-6). The xeno'jiiva exhales a beam of blue fire in a 120-foot line that is 10-feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 50 (9d10) fire damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Frightful Presence",
+			"text": [
+				"Each creature of the xeno'jiiva's choice that is within 120 feet of the xeno'jiiva and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the xeno'jiiva's Frightful Presence for the next 24 hours.",
+				""
+			]
+		},
+		{
+			"name": "Swallow",
+			"text": [
+				"The xeno'jiiva makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outsjde the xeno'jiiva, and it takes 53 (l5d6) acid damage at the start of each of the xeno'jiiva's turns. If the xeno'jiiva takes 50 damage or more on a single turn from a creature inside it, the xeno'jiiva must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the xeno'jiiva. If the xeno'jiiva dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The xeno'jiiva can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The xeno'jiiva regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Detect",
+			"text": [
+				"The xeno'jiiva makes a Wisdom (Perception) check.",
+				""
+			]
+		},
+		{
+			"name": "Tail Attack",
+			"text": [
+				"The xeno'jiiva makes a tail attack.",
+				""
+			]
+		},
+		{
+			"name": "Wing Attack (Costs 2 Actions)",
+			"text": [
+				"The xeno'jiiva beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 28 (4d8+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.",
+				""
+			]
+		},
+		{
+			"name": "Chomp (Costs 2 Actions)",
+			"text": [
+				"The xeno'jiiva makes one bite attack or uses its Swallow."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Vaal Hazak",
+	"size": "H",
+	"type": {
+		"type": "undead",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "chaotic evil",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +7, Con +12, Int +10, Cha +9",
+	"immune": "necrotic; bludgeoning, piercing, and slashing damage from non magical weapons",
+	"conditionImmune": "charmed, frightened, petrified",
+	"senses": "darkvision 120 ft.",
+	"passive": 14,
+	"languages": "Draconic",
+	"cr": "24",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the vaal hazak fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Magic Resistance",
+			"text": [
+				"The vaal hazak has advantage on saving throws against spells and other magical effects.",
+				""
+			]
+		},
+		{
+			"name": "Effluvium Aura",
+			"text": [
+				"At the start of each of the vaal hazak's turns, each creature within 5 feet of it takes 11 (3d6) necrotic damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the vaal hazak or hits it with a melee attack while within 5 feet of it takes 11 (3d6) necrotic damage.",
+				""
+			]
+		},
+		{
+			"name": "Regeneration",
+			"text": [
+				"The vaal hazak regains 30 hit points at the start of its turn if it has at least 1 hit point. If the vaal hazak takes radiant damage or damage from holy water, this trait doesn't function at the start of the vaal hazak's next turn.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The vaal hazak makes four attacks: two with its bite and two with its claws.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit 24 (4d8+6) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Claw",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 5 ft., one target. Hit 20 (4d6+6) slashing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 15ft., one target. Hit 28 (4d10+6) bludgeoning damage. On hit, the target must make a DC 17 Strength saving throw or be knocked prone.",
+				""
+			]
+		},
+		{
+			"name": "Effluvium Breath (recharge 5-6)",
+			"text": [
+				"The vaal hazak exhales a cloud of effluvium bacteria in a 90-foot cone. Each creature in that line must make a DC 20 Constitution saving throw, taking 70 (20d6) necrotic damage and are cursed as if by the bestow curse spell for 1 minute on a failed save, or half as much damage on a successful one and are not cursed.",
+				"",
+				"Return from the Dead (3/day). The vaal hazak raises a recently deceased CR 4 or lower creature from the dead to fight by its side. A creature raised in this way is considered undead, heals to its hit point maximum and gains the undead fortitude trait.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The vaal hazak can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The vaal hazak regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Tail Attack",
+			"text": [
+				"The vaal hazak makes a tail attack.",
+				""
+			]
+		},
+		{
+			"name": "Frightening Gaze (Costs 2 Actions)",
+			"text": [
+				"The vaal hazak fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 19 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the vaal hazak's gaze for the next 24 hours.",
+				""
+			]
+		},
+		{
+			"name": "Disrupt Life (Costs 3 Actions)",
+			"text": [
+				"Each living creature within 20 feet of the vaal hazak must make a DC 20 Constitution saving throw against this magic, taking 32 (9d6) necrotic damage on a failed save, or half as much damage on a successful one."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Nergigante",
+	"size": "H",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "chaotic evil",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Str +16, Dex +9, Wis +11",
+	"resist": "bludgeoning, piercing, and slashing damage from non magical weapons",
+	"conditionImmune": "charmed, exhaustion, frightened, petrified",
+	"senses": "darkvision 120 ft.",
+	"passive": 14,
+	"languages": "Draconic",
+	"cr": "23",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the nergigante fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Magic Resistance",
+			"text": [
+				"The nergigante has advantage on saving throws against spells and other magical effects.",
+				""
+			]
+		},
+		{
+			"name": "Spiked Regrowth",
+			"text": [
+				"The nergigante has spikes covering its body, granting it +2 AC. These spikes regrow at the start of the nergigante's if they are lost. As a bonus action, after using an action, the nergigante can use its spiked explosion.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The nergigante can use its frightful presence. It then makes four attacks: one with its bite, one with its horn, and two with its claws.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit 25 (4d8+7) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Horn",
+			"text": [
+				"Melee Weapon Attack. +14 to hit, reach 5 ft., one target. Hit 29 (4d10+7) bludgeoning damage.",
+				""
+			]
+		},
+		{
+			"name": "Claw",
+			"text": [
+				"Melee Weapon Attack. +14 to hit, reach 5 ft., one target. Hit 21 (4d6+7) slashing damage.",
+				""
+			]
+		},
+		{
+			"name": "Wing",
+			"text": [
+				"Melee Weapon Attack. +14 to hit, reach 10 ft., one target. Hit 33 (4d12+7) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Frightful Presence",
+			"text": [
+				"Each creature of the nergigante's choice that is within 120 feet of the nergigante and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nergigante's Frightful Presence for the next 24 hours.",
+				""
+			]
+		},
+		{
+			"name": "Meteor Crash (recharge 5-6)",
+			"text": [
+				"The nergigante leaps into the air using its wings to hover briefly and comes crashing down in a 15-foot square area within 60 feet of it. Each creature in that area must make a DC 22 Dexterity saving throw, taking 60 (17d6) bludgeoning damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Spiked Explosion",
+			"text": [
+				"The spikes on the nergigante explode outward, removing the AC bonus it receives spiked regrowth and strikes all targets within 30-foot sphere of it. Each creature in that area must make a DC 22 Dexterity saving throw, taking 11 (3d6) piercing damage on a failed save or half as much on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Dragon Eater",
+			"text": [
+				"The nergigante feeds on the corpse of a dragon. A large or smaller dragon is consumed whole, while the nergigante can feed on a Huge or bigger dragon for up to 30 seconds. For each round the Nergigante feeds on a dragon, it heals for an amount equal to the dragons Challenge rating.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The nergigante can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The nergigante regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Move",
+			"text": [
+				"The nergigante moves up to its speed without provoking opportunity attacks.",
+				""
+			]
+		},
+		{
+			"name": "Wing Attack",
+			"text": [
+				"The nergigante makes a wing attack.",
+				""
+			]
+		},
+		{
+			"name": "Trample (Costs 2 Actions)",
+			"text": [
+				"The nergigante moves up to its speed, during this move it may move through other creatures without provoking attacks of opportunity. Any creatures the nergigante moves through must succeed on a DC 20 Dexterity saving throw or take 29 (4d10+7) bludgeoning damage and be knocked prone."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Fatalis",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "chaotic evil",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +7, Con +15, Wis +10, Cha +12",
+	"skill": {
+		"insight": "+10",
+		"intimidation": "+12",
+		"perception": "+10"
+	},
+	"immune": "determined by Shifting Scales",
+	"senses": "Darkvision 60 Ft. blindsight 60 ft., darkvision 120 ft.",
+	"passive": 20,
+	"languages": "Common, Draconic",
+	"cr": "22",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the fatalis fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Magic Resistance",
+			"text": [
+				"The fatalis has advantage on saving throws against spells and other magical effects.",
+				""
+			]
+		},
+		{
+			"name": "Shifting Scales",
+			"text": [
+				"The fatalis has three forms; black, crimson, and white. At the start of the fatalis turn its scales shift, black to crimson, crimson to white, or white to black. The Fatalis loses its breath weapon, damage immunities, and elemental damage from their bite or claw attacks and gain the benefits below of its new scale color. Breath attacks all share the same recharge.",
+				"",
+				"Black Scales",
+				""
+			]
+		},
+		{
+			"name": "Black Fire (Recharge 5-6)",
+			"text": [
+				"The fatalis exhales a black flame in a 90-foot cone. Each creature in that area must make a DC 23 Dexterity saving throw, taking 39 (7d10) necrotic damage plus 15 (6d4) fire on a failed save, or half as much damage on a successful one."
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"attacks deal an additional 6 (1d10) necrotic damage (not included in the attack action)."
+			]
+		},
+		{
+			"name": "Damage Immunities",
+			"text": [
+				"necrotic, bludgeoning",
+				"Crimson Scales",
+				""
+			]
+		},
+		{
+			"name": "Crimson Demons Breath (Recharge 5-6)",
+			"text": [
+				"The fatalis exhales 90-foot line that is 10 feet wide. Each creature in that area must make a DC 23 Dexterity saving throw, taking 36 (8d8) fire damage plus 14 (4d6) necrotic on a failed save, or half as much damage on a successful one."
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"attacks deal an additional 6 (1d10) fire damage (not included in the attack action)."
+			]
+		},
+		{
+			"name": "Damage Immunities",
+			"text": [
+				"fire, slashing",
+				"White Scales",
+				""
+			]
+		},
+		{
+			"name": "Emperor's Roar (Recharge 5-6)",
+			"text": [
+				"The fatalis calls down a giant bolt of red lightning enveloping the area around the fatalis with a bright red glow. Each creature in a 20-foot-radius, 100-foot-high cylinder centered on the ground below the fatalis must make a DC 23 Dexterity saving throw, taking 39 (11d6) lighting damage plus 14 (3d8) fire on a failed save, or half as much damage on a successful one."
+			]
+		},
+		{
+			"name": "Claw",
+			"text": [
+				"attack deals an additional 4 (1d6) lightning damage (not included in the attack action)."
+			]
+		},
+		{
+			"name": "Damage Immunities",
+			"text": [
+				"lightning, piercing"
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The fatalis can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+				""
+			]
+		},
+		{
+			"name": "Frightful Presence",
+			"text": [
+				"Each creature of the fatalis's choice that is within 120 feet of the fatalis and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the fatalis's Frightful Presence for the next 24 hours.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit 26 (3d10+9) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Claw",
+			"text": [
+				"Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit 20 (3d6+9) slashing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack: +16 to hit, 20 ft., one target. Hit 23 (3d8+9) bludgeoning damage.",
+				""
+			]
+		},
+		{
+			"name": "Fireball",
+			"text": [
+				"The fatalis exhales a fireball radius within 120ft of its location. Each creature in a 10-foot radius Sphere centered on that point must make a DC 23 Dexterity saving throw. A target takes 28 (8d6) fire damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The fatalis can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The fatalis regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Detect",
+			"text": [
+				"The fatalis makes a Wisdom (Perception) check.",
+				""
+			]
+		},
+		{
+			"name": "Tail Attack",
+			"text": [
+				"The fatalis makes a tail attack.",
+				""
+			]
+		},
+		{
+			"name": "Wing Attack (Costs 2 Actions)",
+			"text": [
+				"The dragon beats its wings. Each creature within 15 feet of the fatalis must succeed on a DC 24 Dexterity saving throw or take 20 (3d6+9) bludgeoning damage and be knocked prone. The fatalis can then fly up to half its flying speed."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Alatreon",
+	"size": "H",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +6, Con +12, Wis +8, Cha +8",
+	"skill": {
+		"perception": "+14"
+	},
+	"conditionImmune": "charmed, frightened",
+	"senses": "blindsight 60 ft., darkvision 120ft.",
+	"passive": 24,
+	"languages": "Draconic",
+	"cr": "21",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the alatreon fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The alatreon makes three attacks; two claw attacks one bite or tail attack.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack. +14 to hit, reach 15 ft., one target. Hit 22 (3d8+8) piercing damage. If the target is a large or smaller creature, it is grappled (escape DC 22). Until this grapple ends, the alatreon can't use its bite on another target.",
+				""
+			]
+		},
+		{
+			"name": "Claws",
+			"text": [
+				"Melee Weapon Attack. +14 to hit, reach 10ft., one target. Hit 19 (3d6+8) slashing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +14 to hit, reach 20ft., one target. Hit 22 (3d8+8) bludgeoning damage. On hit, the target must make a DC 22 Strength saving throw or be knocked prone.",
+				""
+			]
+		},
+		{
+			"name": "Ice Storm",
+			"text": [
+				"The alatreon magically creates a hail of rock-hard ice that pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within 120 feet of the alatreon. centered on a point within 150 feet. Each creature in the cylinder must make a DC 21 Dexterity saving throw. A creature takes 17 (3d10) bludgeoning damage and 17 (3d10) slashing damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Lightning Storm",
+			"text": [
+				"The alatreon magically creates three bolts of lightning, each of which can strike a target the alatreon can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Flame Strike",
+			"text": [
+				"The alatreon magically creates a vertical column of fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within 40 feet of the alatreon must make a DC 21 Dexterity saving throw, taking 41 (9d8) fire damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Breath Weapons (Recharge 5-6)",
+			"text": [
+				"The alatreon uses one of the following breath weapons:",
+				""
+			]
+		},
+		{
+			"name": "Lightning Breath",
+			"text": [
+				"The alatreon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one."
+			]
+		},
+		{
+			"name": "Cold Breath",
+			"text": [
+				"The alatreon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (l6d8) cold damage on a failed save, or half as much damage on a successful one."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The alatreon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The alatreon regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Attack",
+			"text": [
+				"The alatreon makes a Bite attack.",
+				""
+			]
+		},
+		{
+			"name": "Storm (Costs 2 Actions)",
+			"text": [
+				"The alatreon uses its Lightning Storm or Ice Storm.",
+				"",
+				"Tail Sweep(Costs 3 Actions). The alatreon sweeps its tail and rises into the air. Each creature within 30 feet of the alatreon must succeed on a DC 20 Strength saving throw, taking 28 (5d10) bludgeonging damage and are knocked prone on a failed save. On a successful save the target takes half damage and isn't knocked prone. The alatreon can then rise 30 feet into the air."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Nakarkos",
+	"size": "H",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "chaotic evil",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +8, Wis +10, Cha +9",
+	"resist": "bludgeoning, piercing, and slashing damage from non magical weapons",
+	"senses": "blindsight 60 ft., darkvision 120 ft., tremorsense 120 ft.",
+	"passive": 14,
+	"languages": "Draconic",
+	"cr": "20",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the nakarkos fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Poison Aura",
+			"text": [
+				"At the start of each of the nakarkos's turns, each creature within 5 feet of its body takes 11 (3d6) poison damage. A creature that touches the nakarkos body or hits it with a melee attack while within 5 feet of it takes 7 (2d6) poison damage.",
+				""
+			]
+		},
+		{
+			"name": "Bone Tentacles",
+			"text": [
+				"The nakarkos has two tentacles (Size: Large, AC 22, HP 30). Damaging a bone tentacle deals no damage to the nakarkos. When a bone tentacle reaches 0 hit points, it becomes a Broken Tentacle. As a bonus action, the tentacles retract underground and reappear in an unoccupied space within 15 feet of the narkarkos body.",
+				""
+			]
+		},
+		{
+			"name": "Broken Tentacles",
+			"text": [
+				"A broken tentacle has had the bones protecting it destroyed reducing its AC by 2. (Size: Large, AC 20). Damaging a broken tentacle deals damage to the nakarkos. At the end of the nakarkos turn, a broken tentacle retracts into the ground. It reappears at the start of the nakarkos next turn with the bones of a new creature, roll a d4 to determine what type of tentacle it becomes. On a 1, Lagiacrus Tentacle; On a 2, Galvenus Tentacle; On a 3, Uragaan Tentacle; On a 4, Brachydios Tentacle.",
+				""
+			]
+		},
+		{
+			"name": "True Face",
+			"text": [
+				"The Nakarkos is sunken into the ground, revealing only its body parts that are covered in dragon bone giving the appearance that it has \"two heads\" but nakarkos's true head is hidden away underground. When the nakarkos is below half of its maximum hit points (131), it will reveal its unprotected true face reducing its AC by 2 and replacing its multiattack and fire beam with:",
+				""
+			]
+		},
+		{
+			"name": "Multiattack",
+			"text": [
+				"The nakarkos makes two tentacle attacks and one beak attack. it can replace its tentacle attack with a sticky mucus attack."
+			]
+		},
+		{
+			"name": "Fire Beam (recharge 5-6)",
+			"text": [
+				"The nakarkos exhales a beam of fire in a 90-foot line that is 10-feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 50 (9d10) fire damage on a failed save, or half as much damage on a successful one."
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The nakarkos makes two tentacle attacks. it can replace either of these attacks with a Sticky Mucus attack.",
+				""
+			]
+		},
+		{
+			"name": "Sticky Mucus",
+			"text": [
+				"Range Weapon Attack. +8 to hit, range 30/120 ft. from tentacles location, one target. Hit 18 (5d6) poison damage. On hit, the target is grappled by the mucus (escape DC 19).",
+				""
+			]
+		},
+		{
+			"name": "Tentacles",
+			"text": [
+				"The nakarkos uses one of the following tentacle attacks depending on which bones they are using:",
+				""
+			]
+		},
+		{
+			"name": "Broken Tentacle",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 10 ft., one target. Hit 18 (3d6+7) bludgeoning damage."
+			]
+		},
+		{
+			"name": "Lagiacrus Tentacle",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 10 ft., one target. Hit 21 (4d6+7) piercing damage plus 6 (1d10) lightning damage."
+			]
+		},
+		{
+			"name": "Galvenus Tentacle",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 10 ft., one target. Hit 21 (4d6+7) slashing damage plus 6 (1d10) fire damage."
+			]
+		},
+		{
+			"name": "Uragaan Tentacle",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 10 ft., one target. Hit 28 (6d6+7) blugeoning damage."
+			]
+		},
+		{
+			"name": "Brachydios Tentacle",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 10 ft., one target. Hit 21 (4d6+7) bludgeoning damage and each creature within 5 feet of the target, including the target, must make a DC 20 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much on a successful one.",
+				"",
+				""
+			]
+		},
+		{
+			"name": "Beak",
+			"text": [
+				"Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit 29 (4d10+7) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Fire Beam (recharge 5-6)",
+			"text": [
+				"The nakarkos tentacles releases two beams of fire, one from each tentacle. Each beam fires in a 45-foot line that is 5-feet wide. Each creature in either line must make a DC 20 Dexterity saving throw, taking 44 (8d10) fire damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The narkarkos can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The narkarkos regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Mucus Ball",
+			"text": [
+				"The narkarkos launches a ball of mucus from its back at a target. The target must make a DC 20 Dexterity saving throw or become restrained by the mucus (escape 19).",
+				""
+			]
+		},
+		{
+			"name": "Tentacle Attack",
+			"text": [
+				"The narkarkos makes a tentacle attack.",
+				""
+			]
+		},
+		{
+			"name": "Trample (Costs 2 Actions)",
+			"text": [
+				"The narkarkos moves up to its speed, during this move it may move through other creatures without provoking attacks of opportunity. Any creatures the narkarkos moves through must succeed on a DC 20 Dexterity saving throw or take 25 (4d8+7) bludgeoning damage and be knocked prone."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Gogmazios",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +6, Wis +9, Cha +8",
+	"resist": "fire",
+	"senses": "darkvision 120 ft.",
+	"passive": 13,
+	"languages": "-",
+	"cr": "19",
+	"trait": [
+		{
+			"name": "Legendary Resistance (2/Day)",
+			"text": [
+				"If the gogmazios fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Pitch",
+			"text": [
+				"The gogmazios secretes tar from its body like sweat. Every 10 feet the gogmazios moves, it leaves tar in a unoccupied 5-foot area. Each creature in that enters the area or starts its turn in that area must make a DC 19 Strength saving throw, or become tarred.",
+				""
+			]
+		},
+		{
+			"name": "Combustible",
+			"text": [
+				"A creature with the tarred condition takes an additional 11 (2d10) fire damage if the tarred condition ends from taking fire damage.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The gogmazios can use its Frightful Presence. It then makes three attacks: one with its tail and two with its claws. It can't make a tail attack against the same target it used its claw attacks on.",
+				""
+			]
+		},
+		{
+			"name": "Claw",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 10 ft., one target. Hit 14 (2d6+7) slashing damage plus 6 (1d10) fire damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 15ft., one target. Hit 25 (4d8+7) bludgeoning damage. and the target is tarred (escape DC 19).",
+				""
+			]
+		},
+		{
+			"name": "Frightful Presence",
+			"text": [
+				"Each creature of the gogmazios's choice that is within 120 feet of the gogmazios and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the gogmazios's Frightful Presence for the next 24 hours.",
+				""
+			]
+		},
+		{
+			"name": "Breath Weapons (Recharge 5-6)",
+			"text": [
+				"The gogmazios uses one of the following breath weapons:",
+				""
+			]
+		},
+		{
+			"name": "Fire Breath",
+			"text": [
+				"The gogmazios exhales fire in a 90-foot line that is 5-feet wide. Each creature in that area must make a DC 20 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one."
+			]
+		},
+		{
+			"name": "Oil Breath",
+			"text": [
+				"The gogmazios exhales tar in a 60-foot cone. That area becomes tarred for one hour. Each creature in that enters the area or starts its turn in that area must make a DC 20 Strength saving throw, or become tarred."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The gogmazios can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The gogmazios regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Detect",
+			"text": [
+				"The gogmazios makes a Wisdom (Perception) check.",
+				""
+			]
+		},
+		{
+			"name": "Tail Attack",
+			"text": [
+				"The gogmazios makes a tail attack.",
+				""
+			]
+		},
+		{
+			"name": "Wing Attack (Costs 2 Actions)",
+			"text": [
+				"The gogmazios beats its wings. Each creature within 15 feet of the gogmazios must succeed on a DC 21 Dexterity saving throw or take 21 (4d6+7) bludgeoning damage and be knocked prone. The gogmazios can then fly up to half its flying speed."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Yama Tsukami",
+	"size": "G",
+	"type": {
+		"type": "monstrosity",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Str +14, Dex +6, Con, +12, Wis +9",
+	"immune": "lightning; bludgeoning, piercing, and slashing from nonmagical weapons",
+	"conditionImmune": "charmed, frightened, paralysis, prone",
+	"senses": "truesight 120 Ft.",
+	"passive": 13,
+	"languages": "Primordial but can't speak, telepathy 120 ft.",
+	"cr": "18",
+	"trait": [
+		{
+			"name": "Freedom of Movement",
+			"text": [
+				"The yama tsukami ignores difficult terrain, and magical effects can't reduce its speed or cause it to be Restrained. It can spend 5 feet of Movement to escape from nonmagical restraints or being Grappled.",
+				""
+			]
+		},
+		{
+			"name": "Siege Monster",
+			"text": [
+				"The yama tsukami deals double damage to Objects and structures.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The yama tsukami makes three tentacle attacks, each of which it can replace with one use of Fling.",
+				""
+			]
+		},
+		{
+			"name": "Summon Great Thunderbugs (recharge 6)",
+			"text": [
+				"The yama tsukami releases 6 (1d10) great thunderbugs from its mouth that occupy a space within 20 feet of the yama tsukami.                                                                                 When a great thunderbug summoned by the yama tsukami dies, it explodes in a burst of lightning. Each creature within 10 feet of it must make a DC 13 Dexterity saving throw, taking 7 (2d6) lightning damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Tentacle",
+			"text": [
+				"Melee Weapon Attack. +14 to hit, reach 20ft., one target. Hit 19 (3d6+8) bludgeoning damage, and the target is Grappled (escape DC 18). Until this grapple ends, the target is Restrained. The yama tsukami has six tentacles, each of which can grapple one target.",
+				""
+			]
+		},
+		{
+			"name": "Fling",
+			"text": [
+				"One Large or smaller object held or creature Grappled by the yama tsukami is Thrown up to 60 feet in a random direction and knocked prone. If a Thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was Thrown. If the target is Thrown at another creature, that creature must succeed on a DC 18 Dexterity saving throw or take the same damage and be knocked prone.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack. +14 to hit, reach 5 ft., one target. Hit 22 (3d8+8) piercing damage. If the target is a Large or smaller creature Grappled by the yama tsukami, that creature is swallowed, and the grapple ends. While swallowed, the creature is Blinded and Restrained, it has total cover against attacks and other effects outside the yama tsukami, and it takes 42 (12d6) acid damage at the start of each of the yama tsukami's turns. If the yama tsukami takes 40 damage or more on a single turn from a creature inside it, the yama tsukami must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the yama tsukami. If the yama tsukami dies, a swallowed creature is no longer Restrained by it and can escape from the corpse using 15 feet of Movement, exiting prone.",
+				""
+			]
+		},
+		{
+			"name": "Fire Plume (recharge 5-6)",
+			"text": [
+				"The yama tsukami releases a plume of fire from its underside. All creatures within 30 feet of the yama tsukami must make a DC 20 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save or half as much on a successful one.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The yama tsukami can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The yama tsukami regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Summon Great Thunderbugs or Fire Plume",
+			"text": [
+				"The yama tsukami uses its Summon Great Thunderbugs or Fire Plume.",
+				""
+			]
+		},
+		{
+			"name": "Tentacle Attack or Fling",
+			"text": [
+				"The yama tsukami makes a tentacle Attack or uses its Fling.",
+				""
+			]
+		},
+		{
+			"name": "Whirlwind (Costs 2 Actions)",
+			"text": [
+				"The yama tsukami extends out all of its tentacles and spins in circles. Each creature within a 20 foot radius of the yama tsukami must succeed on a DC 18 Dexterity saving throw, taking 22 (4d10) bludgeoning damage and are knocked prone on a failed save."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Dalamadur",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Wis +8 Cha +8",
+	"skill": {
+		"perception": "+14",
+		"stealth": "+13"
+	},
+	"resist": "fire, poison",
+	"conditionImmune": "charmed, frightened, paralyzed",
+	"senses": "truesight 120 ft.",
+	"passive": 24,
+	"languages": "Common, Draconic, Sylvan, Telepathy 120 ft.",
+	"cr": "18",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the dalamadur fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Magic Resistance",
+			"text": [
+				"The dalamadur has advantage on saving throws against spells and other magical effects.",
+				""
+			]
+		},
+		{
+			"name": "Siege Monster",
+			"text": [
+				"The dalamadur deals double damage to objects and structures.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The dalamadur can use its Frightful Presence. It then makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 15 ft., one target. Hit 29 (4d10+7) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 28 (8d6) poison damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +13 to hit, reach 25ft., one target. Hit 25 (4d8+7) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Constrict",
+			"text": [
+				"Melee Weapon Attack: +10 to hit, reach 10 ft., one creature. Hit: 22 (4d8+4) bludgeoning damage, and the target is grappled (escape DC 18). Until this grapple ends, the creature is restrained, and the dalamadur can't constrict another target.",
+				""
+			]
+		},
+		{
+			"name": "Frightful Presence",
+			"text": [
+				"Each creature of the dalamadur's choice that is within 120 feet of the dalamadur and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dalamadur's Frightful Presence for the next 24 hours.",
+				""
+			]
+		},
+		{
+			"name": "Rattle",
+			"text": [
+				"Using the hypnotic sounds from the rattle on its tail, the dalamadur chooses one humanoid it can see within 30 feet of it must succeed on a DC 16 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the dalamadur's spoken and telepathic commands. If the target suffers any harm from the dalamadur or another creature or receives a suicidal command from the dalamadur, the target can repeat the saving throw, ending the effect on itself on a success. If a target's saving throw is successful, or if the effect ends for it, the creature is immune to the dalamadur's Fiendish Charm for the next 24 hours. A creature that is Deafened is immune to this effect.",
+				""
+			]
+		},
+		{
+			"name": "Fire Breath (Recharge 5-6)",
+			"text": [
+				"The dalamadur exhales fire in a 90-foot cone. Each creature in that area must make a DC 19 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The dalamadur can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The dalamadur regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Squeeze",
+			"text": [
+				"The dalamadur makes a Constrict attack.",
+				""
+			]
+		},
+		{
+			"name": "Rattle (Costs 2 Actions)",
+			"text": [
+				"The dalamadur uses its Rattle.",
+				""
+			]
+		},
+		{
+			"name": "Metor (Costs 3 Actions)",
+			"text": [
+				"The dalamadur opens its mouth and magically creates three swirling balls of blue fire, launching them into the sky, each of which can strike a target the dalamadur can see within 120 feet of it. A target must make a DC 21 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Amatsumagatsuchi",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +6, Con +11, Wis +7, Cha +8",
+	"skill": {
+		"acrobatics": "+6",
+		"perception": "+12"
+	},
+	"immune": "radiant",
+	"conditionImmune": "charmed, exhaustion, frightened, prone",
+	"senses": "blindsight 60 ft., darkvision 120ft.",
+	"passive": 22,
+	"languages": "Draconic, Primordial",
+	"cr": "17",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the amatsu fails a saving throw, it can choose to succeed instead.",
+				""
+			]
+		},
+		{
+			"name": "Wind Barrier",
+			"text": [
+				"A barrier of strong wind surrounds the amatsu in a 10-foot radius around it. The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or Objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at the amatsu are deflected upward and automatically miss. (Magic arrows, boulders hurled by Giants or siege engines, and similar projectiles, are unaffected.) Creatures in Gaseous Form can't pass through the barrier.",
+				""
+			]
+		},
+		{
+			"name": "Supressed Power",
+			"text": [
+				"The amatsu is unable to use its Grand Vortex Beam while it is above (99) half of its maximum hit points .",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The amatsu makes two tail attacks and one bite attack. It can replace any of these attacks with a water beam attack.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack. +12 to hit, reach 15 ft., one target. Hit 24 (4d8+6) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +12 to hit, reach 20ft., one target. Hit 28 (4d10+6) bludgeoning damage. On hit, the target must make a DC 21 Strength saving throw or be knocked prone.",
+				""
+			]
+		},
+		{
+			"name": "Water Beam",
+			"text": [
+				"Range Weapon Attack. +6 to hit, reach 150/600 ft., one target. Hit 23 (5d8) cold damage.",
+				""
+			]
+		},
+		{
+			"name": "Wind Vortex (recharge 5-6)",
+			"text": [
+				"The amatsu conjures an swirling vortex of high winds within 100 feet of it. Each creature within that area must make a DC 20 Strength saving throw or are pulled 30 feet towards the amatsu. A creature that is pulled within 30 feet of the amatsu or is already within that range must make a DC 20 Strength saving throw or be thrown 140 feet straight up into the air on a failed save, or half as high on successful one. If a thrown target strikes a solid surface upon landing, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown.",
+				""
+			]
+		},
+		{
+			"name": "Grand Vortex Beam (recharge 6)",
+			"text": [
+				"The amatsu exhales three high pressure beams of water one after another. The beams must be within 120-foot cone of the amatsu and each beam is a 60-foot line that is 5 feet wide. Each creature in a line must make a DC 20 Dexterity saving throw, taking 88 (16d10) cold damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Control Weather (1/day)",
+			"text": [
+				"The amatsu can alter the weather in a 6-mile radius centered on it. The amatsu doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The amatsu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The amatsu regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Detect",
+			"text": [
+				"The amatsu makes a Wisdom (Perception) Check.",
+				""
+			]
+		},
+		{
+			"name": "Bite Attack",
+			"text": [
+				"The amatsu makes a bite attack.",
+				""
+			]
+		},
+		{
+			"name": "Whirlwind (Costs 3 Actions)",
+			"text": [
+				"The amatsu chooses 3 unoccupied 5-foot cube within 5 feet of it. An elemental force that resembles a dust devil appears in the cubes and they move in a straight line 60 feet away from the amatsu before dispersing. Each creature in one of the lines must make a DC 20 Strength saving throw, taking 18 (4d8) force damage on a failed save or half as much on a successful one"
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Valphalk",
+	"size": "H",
+	"type": "dragon(elder)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"skill": {
+		"acrobatics": "+4"
+	},
+	"senses": "",
+	"passive": 10,
+	"languages": "-",
+	"cr": "16",
+	"trait": [
+		{
+			"name": "Brutal Wings",
+			"text": [
+				"The valphalk deals one extra die of its damage when the valphalk hits with its wing attack (included in the attack).",
+				""
+			]
+		},
+		{
+			"name": "Dive Attack",
+			"text": [
+				"If the valphalk is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 5 (1d8) damage to the target.",
+				"",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The valphalk makes five attacks: one Bite attack, two claw attacks, and two wing attacks.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack. +7 to hit, reach 10 ft., one target. Hit 18 (3d8+4) bludgeoning damage.",
+				""
+			]
+		},
+		{
+			"name": "Claw",
+			"text": [
+				"Melee Weapon Attack. +7 to hit, reach 5 ft., one target. Hit 16 (3d6+4) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Wing",
+			"text": [
+				"Melee Weapon Attack. +7 to hit, reach 15 ft., one target. Hit 20 (4d8+4) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Firebolt",
+			"text": [
+				"Range Weapon Attack. +9 to hit, reach 80/320 ft., one target. Hit 14 (4d6) fire damage.",
+				""
+			]
+		},
+		{
+			"name": "Dragon Rush",
+			"text": [
+				"The valphalk moves up to half its fly speed in a straight line, during this move it may move through other creatures without provoking attacks of opportunity. Any creatures the valphalk moves through must succeed on a DC 17 Dexterity saving throw or take 20 (4d8+4) slashing damage plus 11 (3d6) fire damage and are knocked prone on a failed save. On a successful save, the target takes half damage and is not knocked prone.",
+				""
+			]
+		},
+		{
+			"name": "Ignition (recharge 5-6)",
+			"text": [
+				"The valphalk spread its wings out around itself and ignites them. Fire spreads out from the wings in a 15-foot radius around the valphalk. Each creature in that area must make a DC 17 Dexterity saving throw, taking 45 (10d8) fire damage on a failed save or half as much on a successful one."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Kushala Daora",
+	"size": "H",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Str +8, Dex +11, Wis +7, Cha +6",
+	"skill": {
+		"perception": "+7",
+		"stealth": "+11"
+	},
+	"vulnerable": "poison",
+	"senses": "blindsight 60 Ft., darkvision 120 ft.",
+	"passive": 17,
+	"languages": "Draconic",
+	"cr": "15",
+	"trait": [
+		{
+			"name": "Wind Barrier",
+			"text": [
+				"A barrier of strong wind surrounds the kushala daora in a 5-foot radius around it. The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or Objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at the kushala daora are deflected upward and automatically miss. (Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected.) Creatures in Gaseous Form can't pass through the barrier. When a Medium sized creature enters the Wind Barrier's area for the first time on a turn or starts its turn there, they must make a DC 19 Strength saving throw or be pushed back 10 feet. If a creature fails the saving throw by more than 5 they are also knocked prone.",
+				"",
+				"Poison susceptibility. While poisoned, the kushala daora's Wind Barrier is deactivated, it must land on its next turn, and is unable to fly until the poisoned is removed. Once the poisoned condition is removed, the kushala daora's Wind Barrier once again takes effect.",
+				""
+			]
+		},
+		{
+			"name": "Flyby",
+			"text": [
+				"The kushala daora doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The kushala daora makes two bite attacks.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack. +11 to hit, reach 10 ft., one target. Hit 23 (3d10+6) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Barrage",
+			"text": [
+				"The kushala daora rains the debris down to the ground in a 10-foot-radius, 20-foot-high cylinder centered on a point within 150 feet. Each creature in the cylinder must make a DC 17 Dexterity saving throw. A creature takes 17 (3d10) bludgeoning damage and 17 (3d10) slashing damage on a failed save, or half as much damage on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Tornado (recharges after a long or short rest)",
+			"text": [
+				"The kushala daora conjures an tornado that lasts for 1 minute. The tornado is a 20-foot-radius, 60-foot-high spiraling cylinder of wind centered on a location within 100 feet of the kushala daora. This cylinder becomes difficult terrain for the duration, even for flying creatures. Unattended objects in this cylinder that are Large or smaller are pulled towards the center. When a creature enters the tornado's area for the first time on a turn or starts its turn there, it is struck debris the tornado has picked up, and it must make a DC 19 Strength saving throw or taking 14 (4d6) bludgeoning damage plus 14 (4d6) slashing damage, they are pulled to the center of the cylinder, and are restrained on a failed save, or half as much damage on a successful one and are not pulling into the center or restrained.",
+				"",
+				"On each of the kushala daoras turns, it must use its bonus action to move the tornado 30 feet in any direction.",
+				""
+			]
+		},
+		{
+			"name": "Wind Tunnel (recharge 5-6)",
+			"text": [
+				"The kushala daora blast of strong wind in a 90 foot line that is 10 feet wide. Each creature in the line must succeed on a DC 19 Strength saving throw, taking 54 (12d8) force damage and be pushed 15 feet away in a direction following the line on a failed save or half as much on a successful one and pushed away. Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to the kushala daora. The wind tunnel disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The kushala daora can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The kushala daora regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Move",
+			"text": [
+				"The kushala daora can move all dust devil up to 30 feet in any direction.",
+				""
+			]
+		},
+		{
+			"name": "Bite Attack",
+			"text": [
+				"The kushala daora makes a bite attack.",
+				""
+			]
+		},
+		{
+			"name": "Dust Devils (Costs 2 Actions)",
+			"text": [
+				"The kushala daora chooses 3 unoccupied 5-foot cube within 60 feet of it. An elemental force that resembles a dust devil appears in the cube and lasts for 1 minute. Any creature that ends its turn within 5 feet of the dust devil must make a DC 19 Strength saving throw. On a failed save, the creature takes 9 (2d8) bludgeoning damage and is pushed 10 feet away. On a successful save, the creature takes half as much damage and isn’t pushed.",
+				"",
+				"If the dust devil moves over sand, dust, loose dirt, or small gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Chameleos",
+	"size": "H",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Dex +7, Con +9, Wis +7, Cha +7",
+	"skill": {
+		"perception": "+7"
+	},
+	"immune": "poison",
+	"conditionImmune": "poisoned",
+	"senses": "blindsight 60 Ft., darkvision 120 ft.",
+	"passive": 17,
+	"languages": "Draconic",
+	"cr": "14",
+	"trait": [
+		{
+			"name": "Elder Sight",
+			"text": [
+				"Magical Darkness doesn't impede the chameleos's darkvision.",
+				""
+			]
+		},
+		{
+			"name": "Silent Step",
+			"text": [
+				"While invisible, as a bonus action, the chameleos teleports up to 30 feet to an unoccupied space.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The chameleos makes three attacks: two with its Horn and one with its Tongue Lash attack. It can replace any of these attacks with a Poison Spit attack.",
+				""
+			]
+		},
+		{
+			"name": "Horn",
+			"text": [
+				"Melee Weapon Attack. +10 to hit, reach 10 ft., one target. Hit 22 (3d10+5) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tongue Lash",
+			"text": [
+				"Melee Weapon Attack. +10 to hit, reach 15 ft., one target. Hit 16 (3d6+5) bludgeoning damage. On hit, if the target has an object in at least one hand, they must make a DC 15 Strength saving throw or have the object swallowed by the Chameleos. If the chameleos takes 20 damage in one turn, it regurgitates all swallowed objects in an 5 foot area adjacent to it.",
+				""
+			]
+		},
+		{
+			"name": "Poison Spit",
+			"text": [
+				"Range Weapon Attack. +10 to hit, range 30/120 ft., one target. Hit 11 (3d6) poison damage. On hit, a poisonous cloud appears in a 5-foot-radius, 10-foot-high cylinder centered on the target that lasts for 24 hours or until strong wind disperses the cloud. On a miss, the cloud appears in an area adjacent to the target. A creature that starts its turn in the cloud or moves through it for the first time must make a DC 17 Constitution saving throw, taking 7 (2d6) poison damage and become poisoned on a failed save. On a successful save the creature takes half damage and is not poisoned.",
+				"",
+				"Poison Mist(recharge 5-6). The chameleos exhales a poisonous mist in an 60-cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) poison damage on a failed save, or half as much damage on a successful one. The Mist lingers until the start of the chameleos next turn. A creature that starts its turn in the mist or move through it for the first time on a turn must make a DC 17 Constitution saving throw, taking 28(8d6) poison damage and become poisoned on a failed save. On a successful save the creature takes half damage and is not poisoned.",
+				""
+			]
+		},
+		{
+			"name": "Invisible Passage",
+			"text": [
+				"The chameleos magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). While invisible, the chameleos leaves no physical evidence of its passage, so it can be tracked only by magic."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Teostra",
+	"size": "H",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Str +11, Wis +7, Cha +5",
+	"skill": {
+		"perception": "+6"
+	},
+	"immune": "fire",
+	"conditionImmune": "charmed, frightened, poisoned",
+	"senses": "blindsight 60 Ft., darkvision 120 ft.",
+	"passive": 17,
+	"languages": "Draconic",
+	"cr": "13",
+	"trait": [
+		{
+			"name": "Fire Aura",
+			"text": [
+				"At the start of each of the teostra's turns, each creature within 5 feet of it takes 7 (2d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the teostra or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.",
+				""
+			]
+		},
+		{
+			"name": "Explosive Cloud",
+			"text": [
+				"At the start of the teostra's turn, it beats its wings and four clouds of explosive powder appear in unoccupied 5-foot cubes of air within 60 feet of the teostra. Additionally every 15 feet the Teostra moves, it leaves a cloud of explosive powder in a 5-foot cube. The clouds disperse after detonation, until a wind of moderate or greater speed (at least 10 miles per hour) disperses it, or when the teostra dies.",
+				"",
+				"As a Bonus action, the teostra can move up to two of these clouds 10 feet in any direction.",
+				""
+			]
+		},
+		{
+			"name": "Standing Leap",
+			"text": [
+				"The teostra's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The teostra makes three attacks; two claw attacks one bite or tail attack.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack. +11 to hit, reach 10 ft., one target. Hit 20 (3d8+6) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Claws",
+			"text": [
+				"Melee Weapon Attack. +11 to hit, reach 5ft., one target. Hit 17 (3d6+6) slashing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +11 to hit, reach 10ft., one target. Hit 20 (3d8+6) bludgeoning damage. On hit, the target must make a DC 19 Strength saving throw or be knocked prone.",
+				""
+			]
+		},
+		{
+			"name": "Fire Breath (Recharge 5-6)",
+			"text": [
+				"The teostra exhales fire in a 60-foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 45 (10d8) fire damage on a failed save, or half as much on a successful one.",
+				""
+			]
+		},
+		{
+			"name": "Deadly Leap",
+			"text": [
+				"If the teostra jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 19 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 33 (6d8+6) bludgeoning damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 feet out of the teostra's space into an unoccupied space of the creature's choice. If no unoccupied space is with in range, the creature instead falls prone in the teostra's space.",
+				""
+			]
+		},
+		{
+			"name": "Detonate",
+			"text": [
+				"All Explosive Clouds detonate and burst into flames. Each creature within 10-feet of a explosive cloud must make a DC 16 Dexterity saving throw, taking 32 (9d6) fire damage on a failed save or half as much on a successful one. If a creature is within range of more than one explosive cloud, they take an additional 32 (9d6) fire damage for each additional cloud.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The teostra can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The teostra regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Move",
+			"text": [
+				"The teostra moves up to its speed without provoking opportunity attacks.",
+				""
+			]
+		},
+		{
+			"name": "Attack",
+			"text": [
+				"The teostra makes a bite attack.",
+				""
+			]
+		},
+		{
+			"name": "Supernova (Costs 2 Actions)",
+			"text": [
+				"The teostra beats its wings rising 20 feet into the air and releases a large burst of fire all around it. Each creature within 25 foot radius of the teostra must succeed on a DC 20 Dexterity saving throw, taking 22 (4d10) fire damage and are pushed back 10 feet on a failed save."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Lunastra",
+	"size": "H",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Str +9, Wis +6, Cha +4",
+	"skill": {
+		"perception": "+6"
+	},
+	"immune": "fire",
+	"conditionImmune": "charmed, frightened",
+	"senses": "blindsight 60 Ft., darkvision 120 ft.",
+	"passive": 16,
+	"languages": "Draconic",
+	"cr": "12",
+	"trait": [
+		{
+			"name": "Fire Aura",
+			"text": [
+				"At the start of each of the lunastra's turns, each creature within 5 feet of it takes 7 (2d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the lunastra or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.",
+				"",
+				"Poison susceptibility. While poisoned, the lunastra's Fire Aura is deactivated, it must land on its next turn, and is unable to fly until the poisoned is removed. Once the poisoned condition is removed, the lunastra's Fire Aura once again takes effect.",
+				""
+			]
+		},
+		{
+			"name": "Charge",
+			"text": [
+				"If the lunastra moves at least 20 ft. straight toward a target and then hits it with a Bite attack on the same turn, the target takes an extra 14 (3d8) bludgeoning damage.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The Lunastra makes three attacks; two claw attacks one bite or tail attack.",
+				""
+			]
+		},
+		{
+			"name": "Bite",
+			"text": [
+				"Melee Weapon Attack. +9 to hit, reach 10 ft., one target. Hit 19 (3d8+5) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Claws",
+			"text": [
+				"Melee Weapon Attack. +9 to hit, reach 5ft., one target. Hit 16 (3d6+5) slashing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +9 to hit, reach 10ft., one target. Hit 19 (3d8+5) bludgeoning damage. On hit, the target must make a DC 17 Strength saving throw or be knocked prone.",
+				""
+			]
+		},
+		{
+			"name": "Fire Breath (Recharge 5-6)",
+			"text": [
+				"The lunastra exhales fire in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 45 (10d8) fire damage on a failed save, or half as much on a successful one.",
+				""
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [
+		{
+			"name": "",
+			"text": [
+				"The lunastra can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creatures turn. The lunastra regains spent legendary actions at the start of its turn.",
+				""
+			]
+		},
+		{
+			"name": "Move",
+			"text": [
+				"The lunastra moves up to its speed without provoking opportunity attacks.",
+				""
+			]
+		},
+		{
+			"name": "Attack",
+			"text": [
+				"The lunastra makes a bite attack.",
+				""
+			]
+		},
+		{
+			"name": "Devil's Powder (Costs 2 Actions)",
+			"text": [
+				"The lunastra beats its wings releasing an explosive powder and creating a spark with her teeth. Each creature within 10 feet of the lunastra must succeed on a DC 18 Dexterity saving throw or take 11 (2d10) fire damage plus 11 (2d10) force damage and be knocked prone."
+			]
+		}
+	],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Dire Miralis",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Wis +6, Cha +4",
+	"immune": "fire",
+	"conditionImmune": "frightened",
+	"senses": "blindsight 120 ft.",
+	"passive": 12,
+	"languages": "Draconic",
+	"cr": "11",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the dire miralis fails a saving throw, it can choose to succeed instead."
+			]
+		},
+		{
+			"name": "Magma Armor",
+			"text": [
+				"When the dire miralis is below half of its maximum hp, its body cools and AC increases by +4.",
+				""
+			]
+		},
+		{
+			"name": "Siege Monster",
+			"text": [
+				"The dire miralis deals double damage to objects and structures.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The dire miralis makes two claw attacks.",
+				""
+			]
+		},
+		{
+			"name": "Claw",
+			"text": [
+				"Melee Weapon Attack. +11 to hit, reach 5 ft., one target. Hit 25 (4d8+7) slashing damage.",
+				""
+			]
+		},
+		{
+			"name": "Magma Glob",
+			"text": [
+				"Range Weapon Attack. +7 to hit, reach 80/320 ft., one target. Hit The target and the space it is in, are covered in lava, taking 55 (10d10) fire damage. The space is covered in lava for 24 hours before cooling. Any creature that starts its turn or enters the space for the first time, takes 11 (2d10) fire damage. On a miss, an unoccupied space within 5 feet of the target is covered in lava. The lava ignites flammable objects in the area that aren't being worn or carried.",
+				""
+			]
+		},
+		{
+			"name": "Crush",
+			"text": [
+				"The dire miralis slams its body on the ground in a 40-foot square in front of it. Each creature in that areas must succeed on a DC 19 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 18 (4d8) bludgeoning damage + 18 (4d8) fire damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 feet out of the dire miralis's space into an unoccupied space of the creature's choice. If no unoccupied space is with in range, the creature instead falls prone in the dire miralis's space.",
+				""
+			]
+		},
+		{
+			"name": "Greater Fireball (recharge 5-6)",
+			"text": [
+				"The dire miralis exhales a massive fireball within 150ft of its location. Each creature in a 25-foot radius Sphere centered on that point must make a DC 17 Dexterity saving throw. A target takes 39 (11d6) fire damage on a failed save, or half as much damage on a successful one."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Dire Miralis",
+	"size": "G",
+	"type": {
+		"type": "dragon",
+		"tags": [
+			"elder"
+		]
+	},
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"save": "Wis +6, Cha +4",
+	"immune": "fire",
+	"conditionImmune": "frightened",
+	"senses": "blindsight 120 ft.",
+	"passive": 12,
+	"languages": "Draconic",
+	"cr": "11",
+	"trait": [
+		{
+			"name": "Legendary Resistance (3/Day)",
+			"text": [
+				"If the dire miralis fails a saving throw, it can choose to succeed instead."
+			]
+		}
+	],
+	"action": [],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Nerscylla",
+	"size": "L",
+	"type": "monstrosity(temnoceran)",
+	"alignment": "chaotic neutral",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"immune": "poison",
+	"conditionImmune": "poisoned",
+	"senses": "",
+	"passive": 14,
+	"languages": "-",
+	"cr": "6",
+	"trait": [
+		{
+			"name": "Reel in",
+			"text": [
+				"As a bonus action, the nerscylla can pull a webbed target up to 15ft towards the nerscylla.",
+				""
+			]
+		},
+		{
+			"name": "Spider Climb",
+			"text": [
+				"The nerscylla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The nerscylla makes two attack, one with its Poisonous maw and one with its claws.",
+				""
+			]
+		},
+		{
+			"name": "Poisonous Maw",
+			"text": [
+				"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit 2 (2d4) piercing damage + 9 (2d8) poison damage",
+				""
+			]
+		},
+		{
+			"name": "Claws",
+			"text": [
+				"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit 13 (2d6+3) slashing damage. On hit, the target is grappled (escape DC 14).",
+				""
+			]
+		},
+		{
+			"name": "Stinger",
+			"text": [
+				"The nerscylla uses its stinger on a webbed creature. The target creature must then make a DC 15 Constitution saving throw, taking 21 (6d6) poison damage and falls Unconscious for the next hour on a failed save. On a successful save, the target takes half damage. The target can regain consciousness once they are freed of the webbing and the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake.",
+				""
+			]
+		},
+		{
+			"name": "Webbing Shot (recharge 5-6)",
+			"text": [
+				"Ranged Weapon Attack: +6 to hit, range 30/60 ft. , one Large or smaller creature. Hit: The creature is restrained by webbing. As an action, the restrained creature can make a DC 15 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, resistance to bludgeoning damage, and immunity to poison and psychic damage."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Seltas Queen",
+	"size": "L",
+	"type": "monstrosity(neopteron)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"senses": "",
+	"passive": 11,
+	"languages": "-",
+	"cr": "11",
+	"trait": [
+		{
+			"name": "Drone Slave",
+			"text": [
+				"As a Bonus Action, the seltas queen can take a seltas as a drone slave. the seltas and the queen take up the same spaces (though they can be targeted seperately) and the seltas queen gains a flying speed of 60 ft. The Seltas must use its action every turn to hold onto the Seltas Queen",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The seltas makes two attacks, one with its Claws and one with its Horn. Or three Water Orb Attacks.",
+				""
+			]
+		},
+		{
+			"name": "Claws",
+			"text": [
+				"Melee Weapon Attack. +8 to hit, reach 5ft., one target. Hit 7 (3d8+3) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +8 to hit, reach 5ft., one target. Hit 24 (3d12+3) piercing damage. If the target is large or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The seltas queen cannot use her tail attack on another target until this grapple ends.",
+				""
+			]
+		},
+		{
+			"name": "Water Orb",
+			"text": [
+				"Range Weapon Attack. +8 to hit, reach 40/160 ft., one target. Hit 7 (3d6+3) cold damage.",
+				"",
+				"Call for Aid (1/day). The seltas queen calls out for assistance, summoning 2 seltas to aid her."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Seltas",
+	"size": "M",
+	"type": "monstrosity(neopteron)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"senses": "",
+	"passive": 11,
+	"languages": "-",
+	"cr": "3",
+	"trait": [],
+	"action": [
+		{
+			"name": "Multiattack",
+			"text": [
+				"The seltas makes two attacks, one with its Claws and one with its Horn.",
+				""
+			]
+		},
+		{
+			"name": "Claws",
+			"text": [
+				"Melee Weapon Attack. +5 to hit, reach 5ft., one target. Hit 7 (1d6+3) piercing damage.",
+				""
+			]
+		},
+		{
+			"name": "Tail",
+			"text": [
+				"Melee Weapon Attack. +5 to hit, reach 5ft., one target. Hit 8 (1d8+3) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 11 (3d6) poison damage, or half as much damage on a successful one."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Konchu",
+	"size": "S",
+	"type": "monstrosity(neopteron)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"skill": {
+		"stealth": "+4"
+	},
+	"senses": "",
+	"passive": 7,
+	"languages": "-",
+	"cr": "1/4",
+	"trait": [
+		{
+			"name": "Charge",
+			"text": [
+				"If the konchu moves at least 20 feet straight toward a target and then hits it with a roll attack on the same turn, the target takes an extra 4 (1d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Roll",
+			"text": [
+				"Melee Weapon Attack. +3 to hit, reach 5 ft., one target. Hit 4 (1d6+1) bludgeoning damage.",
+				""
+			]
+		},
+		{
+			"name": "Claw",
+			"text": [
+				"Melee Weapon Attack. +3 to hit, reach 5 ft., one target. Hit 4 (1d8+1) slashing damage."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Great Thunderbug",
+	"size": "S",
+	"type": "monstrosity(neopteron)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"skill": {
+		"perception": "+4"
+	},
+	"senses": "",
+	"passive": 14,
+	"languages": "-",
+	"cr": "1/4",
+	"trait": [],
+	"action": [
+		{
+			"name": "Shock",
+			"text": [
+				"Melee Weapon Attack. +5 to hit, reach 5 ft., one target. Hit 1 piercing damage plus 13 (1d4+2) lightning damage. On hit target must make a DC 10 Constitution saving throw, or become paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the paralysis on itself on a success."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Vespoid Queen",
+	"size": "M",
+	"type": "monstrosity(neopteron)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"senses": "",
+	"passive": 11,
+	"languages": "-",
+	"cr": "1",
+	"trait": [
+		{
+			"name": "Flyby",
+			"text": [
+				"The vespoid queen doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Sting",
+			"text": [
+				"Melee Weapon Attack. +6 to hit, reach 5 ft., one target. Hit 1 piercing damage plus 13 (5d4) poison damage. On hit target must make a DC 11 Constitution saving throw, or become paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the paralysis on itself on a success.",
+				""
+			]
+		},
+		{
+			"name": "Corrosive Gas (Recharge 5-6)",
+			"text": [
+				"The Vespoid Queen releases a corrosive gas from her stinger in a 30-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 7 (2d6) acid damage on a failed save or half as much on a successful one. If a creature in that area has a nonmagical weapon made of metal, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Vespoid",
+	"size": "S",
+	"type": "monstrosity(neopteron)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"senses": "",
+	"passive": 11,
+	"languages": "-",
+	"cr": "1/4",
+	"trait": [
+		{
+			"name": "Flyby",
+			"text": [
+				"The vespoid doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Sting",
+			"text": [
+				"Melee Weapon Attack. +6 to hit, reach 5 ft., one target. Hit 1 piercing damage plus 7 (3d4) poison damage. On hit target must make a DC 10 Constitution saving throw, or become paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the paralysis on itself on a success."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Hornetaur",
+	"size": "S",
+	"type": "monstrosity(neopteron)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"skill": {
+		"stealth": "+4"
+	},
+	"senses": "",
+	"passive": 7,
+	"languages": "-",
+	"cr": "1/4",
+	"trait": [
+		{
+			"name": "Pack Tactics",
+			"text": [
+				"The hornetaur has advantage on an attack roll against a creature if at least one of the zamite's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Horn",
+			"text": [
+				"Melee Weapon Attack. +4 to hit, reach 5 ft., one target. Hit 4 (1d4+2) piercing damage."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Bnahabra",
+	"size": "S",
+	"type": "monstrosity(neopteron)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"senses": "",
+	"passive": 11,
+	"languages": "-",
+	"cr": "1/4",
+	"trait": [
+		{
+			"name": "Flyby",
+			"text": [
+				"The bnahabra doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+				""
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Corrosive Spray",
+			"text": [
+				"Range Weapon Attack. +6 to hit, range 20/40 ft., one target. Hit 2 (1d4) acid damage. Roll 1d6, the number 1=fire; 2=poison; 3=lightning; 4=cold; 5=acid; 6=necrotic. Target creature is vulnerable to the damage type rolled for 1 hour.",
+				""
+			]
+		},
+		{
+			"name": "Sting",
+			"text": [
+				"Melee Weapon Attack. +6 to hit, reach 5 ft., one target. Hit 1 piercing damage plus 7 (3d4) poison damage."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
+{
+	"source": "MH_HB",
+	"name": "Altaroth",
+	"size": "S",
+	"type": "monstrosity(neopteron)",
+	"alignment": "unaligned",
+	"str": null,
+	"dex": null,
+	"con": null,
+	"int": null,
+	"wis": null,
+	"cha": null,
+	"senses": "",
+	"passive": 8,
+	"languages": "-",
+	"cr": "0",
+	"trait": [],
+	"action": [
+		{
+			"name": "Corrosive Spit",
+			"text": [
+				"Range Weapon Attack. +2 to hit, range 20/40 ft., one target. Hit 2 (1d4) acid damage. If the creature is in either metal armor or has a metal shield being worn or carried, its takes a temporary -1 penalty to the AC it offers for 24 hours."
+			]
+		}
+	],
+	"reaction": [],
+	"legendary": [],
+	"page": 0
+},
