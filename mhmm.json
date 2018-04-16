@@ -1,6 +1,5 @@
 {
 	"monster": [
-		{
 			"source": "PSA",
 			"page": 32,
 			"name": "Criosphinx",
@@ -149,8 +148,122 @@
 			]
 		}
 	]
-},
+},{
+	"source": "MHMM",
+	"page": 0,
+	"name": "Great Jagras",
+	"size": "L",
+	"type": {
+		"type": "wyvern",
+		"tags": [
+			"fanged"
+		]
+	},
+	"alignment": [
+		"U"
+	],
+	"ac": "15 (natural armor)",
+	"hp": "75 (10d10+20)",
+	"speed": {
+		"walk": 40
+	},
+	"str": 16,
+	"dex": 10,
+	"con": 15,
+	"int": 2,
+	"wis": 12,
+	"cha": 7,
+	"skill": {
+		"perception": "+3"
+	},
+	"senses": "",
+	"passive": 13,
+	"languages": "-",
+	"cr": "4",
+	"trait": [
 		{
+			"name": "Full Belly",
+			"entries": [
+				"While the great jagras has a creature",
+				"swallowed its belly expands, reducing its movement",
+				"speed by 10 feet., rolls one additional weapon",
+				"damage die on Strength-based weapon attacks, and",
+				"it can use its Roll attack."
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"entries": [
+				"The great jagras makes one bite attack",
+				"and one claw attack."
+			]
+		},
+		{
+			"name": "Bite",
+			"entries": [
+				"Melee Weapon Attack: +5 to hit, reach 5 ft., one"
+			]
+		},
+		{
+			"name": "target",
+			"entries": [
+				"Hit 10 (2d6+3) piercing damage and the",
+				"target is grappled (escape DC 14). Until this grapple",
+				"ends, the target is restrained, and the great jagras",
+				"can't bite another target."
+			]
+		},
+		{
+			"name": "Claw",
+			"entries": [
+				"Melee Weapon Attack: +5 to hit, reach 5 ft.,"
+			]
+		},
+		{
+			"name": "one target",
+			"entries": [
+				"Hit: 11 (3d4+3) slashing damage."
+			]
+		},
+		{
+			"name": "Swallow",
+			"entries": [
+				"The great jagras makes one bite attack",
+				"against a Medium or smaller target it is grappling. If",
+				"the attack hits, the target is swallowed, and the",
+				"grapple ends. The swallowed target is blinded and",
+				"restrained, it has total cover against attacks and",
+				"other effects outside the great jagras, and it takes 10",
+				"(3d6) acid damage at the start of each of the great",
+				"jagras's turns. The great jagras can have only one",
+				"target swallowed at a time. If the great jagras dies, a",
+				"swallowed creature is no longer restrained by it and",
+				"can escape from the corpse using 5 feet of",
+				"movement, exiting prone.",
+				"Rollover (Must have a creature swallowed, recharge 5-",
+				"6). The great jagras rolls over, moving up to half its",
+				"movement speed, without provoking an attack of"
+			]
+		},
+		{
+			"name": "opportunity",
+			"entries": [
+				"If the great jagras enters a space",
+				"containing a creature, that creature must make a DC",
+				"13 Dexterity saving throw, or be knocked prone and",
+				"take 14 (3d6+3) bludgeoning damage on a failed",
+				"save. On a successful save, the creature takes only",
+				"half the damage, isn't knocked prone, and is pushed",
+				"5 feet out of the great jagras's space into an",
+				"unoccupied space of the creature's choice. If no",
+				"unoccupied space is with in range, the creature",
+				"instead falls prone in the great jagras's space."
+			]
+		}
+	]
+}
 			"source": "PSA",
 			"page": 37,
 			"name": "Serpopard",
