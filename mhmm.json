@@ -1,6 +1,4 @@
 {
-	"monster": [
-	{
  "source": "Tome of Beasts",
  "name": "Lunastra",
  "size": "H",
@@ -21,7 +19,8 @@
  ],
  "immune": "fire",
  "conditionImmune": "charmed, frightened",
- "senses": "blindsight 60 Ft., darkvision 120 ft., passive",
+ "senses": "blindsight 60 Ft., darkvision 120 ft.",
+ "passive": "16",
  "languages": "Draconic",
  "cr": "12",
  "trait": [
@@ -103,13 +102,7 @@
     "The lunastra exhales fire in a",
     "60-foot cone. Each creature in that area must make a",
     "DC 18 Dexterity saving throw, taking 45 (10d8) fire",
-    "damage on a failed save, or half as much on a successful"
-   ]
-  },
-  {
-   "name": "one",
-   "text": [
-    ""
+    "damage on a failed save, or half as much on a successful one."
    ]
   }
  ],
@@ -149,7 +142,4 @@
    ]
   }
  ]
-}
-		
-	]
 }
